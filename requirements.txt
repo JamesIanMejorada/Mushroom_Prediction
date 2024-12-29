@@ -7,4 +7,4 @@ py-cpuinfo==9.0.0
 wheel==0.45.0
 wrapt==1.16.0
 tensorflow==2.18.0
-
+streamlit_option_menu==0.4.0
