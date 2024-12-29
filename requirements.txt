@@ -1,6 +1,8 @@
-numpy>=1.26.0,<2.1.0
-Pillow==9.5.0
-streamlit>=1.36
-streamlit_option_menu==0.4.0
-tensorflow==2.18.0
-setuptools>=65.0.0
+flatbuffers==24.3.25
+libclang==18.1.1
+namex==0.0.8
+pillow==11.0.0
+pillow_heif==0.20.0
+py-cpuinfo==9.0.0
+wheel==0.45.0
+wrapt==1.16.0
